@@ -2,14 +2,15 @@
 
 Francis Odo
 
-After learning how to create, train and deploy a Machine Learning model locally in non-production environment, it is also necessary to learn and understand how to process it on a particular cloud system. My focus here is on the Amazon Sagemaker and Google MLCloud.
+After learning how to create, train and deploy a Machine Learning model locally in a non-production environment, it is also necessary to learn and understand how to process it on a particular cloud system. My focus here is on the Amazon Sagemaker and Google ML Cloud.
+These are all Artificial Intellegience architecture based applications.
 
 First, The Amazon SageMaker Cloud System
 There are two different projects packaged here.
 
 1. Sentiment Analysis
 
-  The Project files are
+  The project files are
   a) SageMaker Project.ipynb
   
   b) train.py
