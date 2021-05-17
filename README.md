@@ -10,7 +10,8 @@ There are two different projects packaged here.
 
 1. Sentiment Analysis
 
-  The project files are
+  The project files are:
+  
   a) SageMaker Project.ipynb
   
   b) train.py
@@ -18,6 +19,7 @@ There are two different projects packaged here.
   c) predict.py
   
  2. Plagiarism Detection
+ 
   a) Plagiarism_Feature_Engineering.ipynb
   
   b) Training_a_Model.ipynb
